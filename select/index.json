@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "【Official MV】ray 超かぐや姫！Version / かぐや (cv.夏吉ゆうこ)、月見ヤチヨ (cv.早見沙織) from #超かぐや姫 ！",
+  "base_artist": "『超かぐや姫 ! 』公式",
+  "createdAt": "2026-03-27T17:57:50.303217Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ray (超かぐや姫! Version)",
+      "artist": "かぐや",
+      "has_synced": true,
+      "path": "select/01_ray_(超かぐや姫!_Version)_かぐや.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ray (超かぐや姫！ Version)",
+      "artist": "かぐや(cv.夏吉ゆうこ)",
+      "has_synced": true,
+      "path": "select/02_ray_(超かぐや姫!_Version)_かぐや(cv.夏吉ゆうこ).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ray (超かぐや姫！ Version) - ray (Cosmic Princess Kaguya! Version)",
+      "artist": "Kaguya(cv.Yuko Natsuyoshi) & Yachiyo Runami(cv.Saori Hayami)",
+      "has_synced": true,
+      "path": "select/03_ray_(超かぐや姫!_Version)_-_ray_(Cosmic_Princess_Kaguya!_Version)_Kaguya(cv.Yuko_Natsuyoshi)_&_Yachiyo_Runami(cv.Saori_Hayami).lrc"
+    }
+  ]
+}
